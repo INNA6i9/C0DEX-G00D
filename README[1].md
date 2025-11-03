@@ -1,20 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1G9zFvH3nRuh3upyaB7B-Bj4VZLaAdaTa
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ ---
+  <p align="center">
+    <img src="https://media4.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="230" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI5OGp5ZmRhN3A1cGJuNWI1emc0OXJkN2VjMDE0bDI1czVjcWN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="370" />
+</p>
+     worrior codex 
